@@ -1,4 +1,4 @@
-# Django-HelloWorld
+# Hello World! - Django
 To run execute:
 python3 manage.py runserver
 
